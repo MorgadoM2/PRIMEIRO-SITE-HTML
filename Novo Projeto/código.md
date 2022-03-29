@@ -1,6 +1,5 @@
 # Código HTML utilizando vscode
 
-````
 ```
 <!DOCTYPE html>
 <html>
@@ -19,6 +18,7 @@
                 <article>
                     <header>
                         <h3>Bolo de Cenoura com Cobertura de chocolate</h3>
+                         <img src="323619_original.jpg" alt="Ilustração - bolo de cenoura">
                     </header>
                     <p> 
                         <div>Site da Receita <a href="https://www.tudogostoso.com.br/receita/23-bolo-de-cenoura.html" target="_blank"> Bolo de Cenoura tudo gostoso</a> </div>
@@ -48,20 +48,4 @@ Leve a mistura ao fogo e continue misturando até obter uma consistência cremos
 ​                <footer></footer>
 ​    </body>
  </html> 
- ```
-````
-
 ```
-```
-
-```
-```
-
-```
-```
-
-````
-
-
-````
-
